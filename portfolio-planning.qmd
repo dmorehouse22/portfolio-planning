@@ -8,40 +8,41 @@ format: html
 
 1. Identify your data source.
 
-aaa
+This data was collected for my independent research project this past fall on the thermal stress response of marine sponges. I recorded data on days 0, 5 and 10 which are all represented on different sheets. 
 
 2. Describe your data, including variables and data types.
 
-aaa
+A large majority of the data is double, with some character and values for time of day which I am unsure. Some of the data was specifically required for my logging of the project, not neccesarily for the data analysis.
 
 3. Identify the research questions you would like to answer.
 
-aaa
+- How does the respiration rate per hour differ between the ambient and heated treatments?
+- How does the respiration rate per hour differ between the different species of sponge?
 
 ## Data Visualization
 
 1. What do you want your final visualizations to look like?
 
-aaa
+I want my final visualizations to be line graphs showing the gradual change in respiration rate over the 10-day collection interval.
 
 2. What do you want to highlight in these visualizations in order to answer your research questions?
 
-aaa
+I want to be able to distinguish between the 2 different variables being compared in the figures (heated/ambient, etherial/fire sponge). I also want to have points within the line to indicate the day of collection throughout the 10-day period.
 
 3. What is missing from your data or what would you need to change in your data to make this possible?
 
-aaa
+Nothing is missing from the data, but I will need to filter out a lot of insignifcant data to make it easier to interpret and code.
 
 ## Data Cleaning
 
-1. Do you need to filter your data? How?
+1. Do you need to deal with any missing data, especially missing data coded other than NA?
 
-YES
+YES, I must account for the N/A values in my control chambers that don't need to be included in the final visualizations.
 
-2. What do you want to highlight in these visualizations in order to answer your research questions?
+2. Do you need to create any new variables? What variables? How?
 
-YES
+YES, rather than sample ID, I need to create a variable of sponge type (I can do so using the mutate() function)
 
 3. Are there any variables you can exclude from your data?
 
-YES
+Plenty!
