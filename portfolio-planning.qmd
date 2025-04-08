@@ -1,0 +1,47 @@
+---
+title: "Portfolio Part 1: Development & Planning"
+author: Danny Morehouse
+format: html
+---
+
+## Data Description
+
+1. Identify your data source.
+
+aaa
+
+2. Describe your data, including variables and data types.
+
+aaa
+
+3. Identify the research questions you would like to answer.
+
+aaa
+
+## Data Visualization
+
+1. What do you want your final visualizations to look like?
+
+aaa
+
+2. What do you want to highlight in these visualizations in order to answer your research questions?
+
+aaa
+
+3. What is missing from your data or what would you need to change in your data to make this possible?
+
+aaa
+
+## Data Cleaning
+
+1. Do you need to filter your data? How?
+
+YES
+
+2. What do you want to highlight in these visualizations in order to answer your research questions?
+
+YES
+
+3. Are there any variables you can exclude from your data?
+
+YES
